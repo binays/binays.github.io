@@ -1,4 +1,4 @@
-<img src="binays.github.io/20170820_112931.jpg" width="100" height="100" />
+<img src="binays.github.io/20170820_112931.jpg" width="300" height="200" />
 ## Personal Info
 Hi! I am Binay Dahal. Currently, I am doing MS in Computer Science in University of Nevada, Las Vegas. My research interest includes Deep Learning, its Applications on Natural Language Processing, Image Analysis, and General AI. I am also interested in Improving the training methods in deep learning models. I mean, its getting us good and profitable results but as Hinton says, "We are getting results does not mean we are doing it correctly." 
 
