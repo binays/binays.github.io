@@ -6,3 +6,5 @@ Hi! I am Binay Dahal. Currently, I am doing MS in Computer Science in University
 - <a href="https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-017-0095-2?site=journalofbigdata.springeropen.com"> Zhan, Justin, and Binay Dahal. "Using deep learning for short text understanding." Journal of Big Data 4.1 (2017): 34</a>
 - <a href="binays.github.io/DGADomainsDetection.pdf">AutoEncoded Domains with Mean Activation for DGA Botnets Detection-Submitted to IEEE Cyber Security 2018</a>
 
+## Currently working project
+Currently I'm doing research on ranking images based on their aesthetic value. It means, giving a score to an image based on how beautiful they are. Beauty is very subjective concept. It varies with people. But, I believe there is some general concensus among people on what's beautiful. I'm planning to use conv. nets on this project. Keep tuned for future updates.
