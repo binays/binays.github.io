@@ -3,7 +3,8 @@
 Hi! I am Binay Dahal. Currently, I am doing MS in Computer Science in University of Nevada, Las Vegas. My research interest includes Deep Learning, its Applications on Natural Language Processing, Image Analysis, and General AI. I am also interested in Improving the training methods in deep learning models. I mean, its getting us good and profitable results but as Hinton says, "We are getting results does not mean we are doing it correctly." 
 
 ## Publications
-<a href="https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-017-0095-2?site=journalofbigdata.springeropen.com"> Using deep learning for Short text understanding</a>
+<a href="https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-017-0095-2?site=journalofbigdata.springeropen.com"> Zhan, Justin, and Binay Dahal. "Using deep learning for short text understanding." Journal of Big Data 4.1 (2017): 34</a>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/binays/dabinay.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
