@@ -1,3 +1,5 @@
+[Link](https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-017-0095-2?site=journalofbigdata.springeropen.com)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/binays/dabinay.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
