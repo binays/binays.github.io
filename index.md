@@ -1,7 +1,10 @@
 <img src="binays.github.io/20170820_112931.jpg" alt="hi" class="inline"/>
 ## Personal Info
 Hi! I am Binay Dahal. Currently, I am doing MS in Computer Science in University of Nevada, Las Vegas. My research interest includes Deep Learning, its Applications on Natural Language Processing, Image Analysis, and General AI. I am also interested in Improving the training methods in deep learning models. I mean, its getting us good and profitable results but as Hinton says, "We are getting results does not mean we are doing it correctly." 
-[Link](https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-017-0095-2?site=journalofbigdata.springeropen.com)
+
+## Publications
+[Using deep Learning for short text Understanding]
+(https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-017-0095-2?site=journalofbigdata.springeropen.com)
 
 ## Welcome to GitHub Pages
 
