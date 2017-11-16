@@ -8,3 +8,7 @@ Hi! I am Binay Dahal. Currently, I am doing MS in Computer Science in University
 
 ## Currently working project
 Currently I'm doing research on ranking images based on their aesthetic value. It means, giving a score to an image based on how beautiful they are. Beauty is very subjective concept. It varies with people. But, I believe there is some general concensus among people on what's beautiful. I'm planning to use conv. nets on this project. Keep tuned for future updates.
+
+### When I find Leisure time
+- I'd like to do some scribbling what other people say Literature. you can find it in my blog <a href="creation-de-binay.blogspot.com">A Literary Flow</a>
+- I play soccer
