@@ -2,9 +2,12 @@
 ## Personal Info
 Hi! I am Binay Dahal. Currently, I am doing Phd in Computer Science in University of Nevada, Las Vegas. My research interest includes Deep Learning, its Applications on Natural Language Processing, Image Analysis, and General AI. I am also interested in Improving the training methods in deep learning models. I mean, its getting us good and profitable results but as Hinton says, "**We are getting results does not mean we are doing it correctly.**" 
 
-## Publications
+## Some Publications
 - <a href="https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-017-0095-2?site=journalofbigdata.springeropen.com"> Zhan, Justin, and Binay Dahal. "Using deep learning for short text understanding." Journal of Big Data 4.1 (2017): 34</a>
 - <a href="binays.github.io/DGADomainsDetection.pdf">AutoEncoded Domains with Mean Activation for DGA Botnets Detection</a>
+
+All my publications can be found on my google scholar page:
+- <a href="https://scholar.google.com/citations?user=lNyykUYAAAAJ&hl=en">Binay Dahal's Google Scholar Profile</a>
 
 ## Recently completed project
 Recently, I completed a research project on pairwise ranking and scoring of images based on their aesthetic value. It means, giving a score to an image based on how beautiful they are. Beauty is very subjective concept. It varies with people. But, I believe there is some general concensus among people on what's beautiful. I'm planning to use conv. nets on this project. Keep tuned for future updates. It has been submitted to IEEE Access and is under review. You can find it here.
