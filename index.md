@@ -4,11 +4,14 @@ Hi! I am Binay Dahal. Currently, I am doing Phd in Computer Science in Universit
 
 ## Publications
 - <a href="https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-017-0095-2?site=journalofbigdata.springeropen.com"> Zhan, Justin, and Binay Dahal. "Using deep learning for short text understanding." Journal of Big Data 4.1 (2017): 34</a>
-- <a href="binays.github.io/DGADomainsDetection.pdf">AutoEncoded Domains with Mean Activation for DGA Botnets Detection-Submitted to IEEE Cyber Security 2018</a>
+- <a href="binays.github.io/DGADomainsDetection.pdf">AutoEncoded Domains with Mean Activation for DGA Botnets Detection</a>
 
 ## Recently completed project
 Recently, I completed a research project on pairwise ranking and scoring of images based on their aesthetic value. It means, giving a score to an image based on how beautiful they are. Beauty is very subjective concept. It varies with people. But, I believe there is some general concensus among people on what's beautiful. I'm planning to use conv. nets on this project. Keep tuned for future updates. It has been submitted to IEEE Access and is under review. You can find it here.
 - <a href="binays.github.io/Image_Aesthetics _latest.pdf">USRRM:Pairwise Ranking and Scoring Images using its Aesthetic Values</a>
+
+Another research that I did applied evolutionary strategies to evolve convolutional neural network to automate the model architecture design.
+- <a href="binays.github.io/Evolving_Nets (3).pdf">Effective Mutation and Recombination for Evolving Convolutional Neural Nets</a>
 
 
 ### When I find Leisure time
