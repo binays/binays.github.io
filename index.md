@@ -11,9 +11,10 @@ Recently, I completed a research project on pairwise ranking and scoring of imag
 - <a href="binays.github.io/Image_Aesthetics _latest.pdf">USRRM:Pairwise Ranking and Scoring Images using its Aesthetic Values</a>
 
 Another research that I did applied evolutionary strategies to evolve convolutional neural network to automate the model architecture design.
-- <a href="binays.github.io/Evolving_Nets (3).pdf">Effective Mutation and Recombination for Evolving Convolutional Neural Nets</a>
+- <a href="binays.github.io/Evolving_Nets_Updated.pdf">Effective Mutation and Recombination for Evolving Convolutional Neural Nets</a>
 
 
 ### When I find Leisure time
 - I'd like to do some scribbling what other people say Literature. you can find it in my blog <a href="https://creation-de-binay.blogspot.com">A Literary Flow</a>
-- I play soccer
+- I play soccer, Tennis
+- I play Piano, Ukulele
